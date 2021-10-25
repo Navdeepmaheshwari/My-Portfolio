@@ -1,0 +1,1710 @@
+@media (max-width:1800px){
+    #navbar{
+        /* margin: 0px 500px; */
+    }
+
+    #intro{
+        /* margin: -480px auto; */
+       display: flex;
+        height: auto;
+        width: 1460px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -520px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+ @media (max-width:1600px){
+    #navbar{
+        margin: 0px 0px;
+    }
+
+    
+    #header{
+        height: 750px;
+        /* width: auto; */
+        /* display: block; */
+        width: 1600px;
+    }
+    #intro{
+        /* margin: -480px auto; */
+       display: flex;
+        height: auto;
+        width: 1360px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -520px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .descrp {
+        padding: 0px 30px;
+        margin: auto 20px;
+        padding-bottom: 20px;
+    }
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1550px;
+        width: 1600px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+    #education{
+        width: 1600px;
+        height: 780px;
+        display: block;
+ 
+}
+
+#education::before{
+    content:"";
+    /* background:url(clothesbg4.jpg) no-repeat center top; */
+    background-color: rgb(240, 240, 240);
+    background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+    position:absolute;
+    height: 850px;
+    width: 1600px;
+    z-index: -1;
+    opacity: 0.9;
+    margin-top: -50px;
+}
+#projects{
+    padding: 40px;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.projects{
+    /* text-align: center; */
+    /* margin: 10px auto ; */
+    display: block;
+    width: 100%;
+    /* height: auto; */
+    margin: 0px auto;
+    /* padding: 20px; */
+    /* text-align: center;
+    justify-content: center; */
+}
+.projects img{
+    /* margin: 0px; */
+    width: 80%;
+    height: auto;
+}
+#contact{
+    /* background-color: rgb(0, 0, 0); */
+    height: 315px;
+    width: 1600px;
+
+}
+} 
+@media (max-width:1366px){
+    #navbar{
+        margin: 0px 0px;
+    }
+
+    
+    #header{
+        height: 600px;
+        /* width: auto; */
+        /* display: block; */
+        width: 1366px;
+    }
+    #intro{
+        /* margin: -480px auto; */
+       display: flex;
+        height: auto;
+        width: 1160px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -400px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .descrp {
+        padding: 0px 30px;
+        margin: auto 20px;
+        padding-bottom: 20px;
+    }
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1550px;
+        width: 1366px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+    #education{
+        width: 1366px;
+        height: 720px;
+        display: block;
+ 
+}
+
+#education::before{
+    content:"";
+    /* background:url(clothesbg4.jpg) no-repeat center top; */
+    background-color: rgb(240, 240, 240);
+    background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+    position:absolute;
+    height: 800px;
+    width: 1366px;
+    z-index: -1;
+    opacity: 0.9;
+    margin-top: -50px;
+}
+#projects{
+    padding: 40px;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.projects{
+    /* text-align: center; */
+    /* margin: 10px auto ; */
+    display: block;
+    width: 100%;
+    /* height: auto; */
+    margin: 0px auto;
+    /* padding: 20px; */
+    /* text-align: center;
+    justify-content: center; */
+}
+.projects img{
+    /* margin: 0px; */
+    width: 80%;
+    height: auto;
+}
+#contact{
+    /* background-color: rgb(0, 0, 0); */
+    height: 315px;
+    width: 1366px;
+
+}
+}
+@media (max-width:1200px){
+    #navbar{
+        margin: 0px 0px;
+    }
+
+    
+    #header{
+        height: 600px;
+        /* width: auto; */
+        /* display: block; */
+        width: 1200px;
+    }
+    #intro{
+        /* margin: -480px auto; */
+       display: flex;
+        height: auto;
+        width: 1000px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -400px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .descrp {
+        padding: 0px 30px;
+        margin: auto 20px;
+        padding-bottom: 20px;
+    }
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1550px;
+        width: 1200px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+    #education{
+        width: 1200px;
+        height: 700px;
+        display: block;
+ 
+}
+
+#education::before{
+    content:"";
+    /* background:url(clothesbg4.jpg) no-repeat center top; */
+    background-color: rgb(240, 240, 240);
+    background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+    position:absolute;
+    height: 800px;
+    width: 1200px;
+    z-index: -1;
+    opacity: 0.9;
+    margin-top: -50px;
+}
+#projects{
+    padding: 50px;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.projects{
+    /* text-align: center; */
+    /* margin: 10px auto ; */
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0px auto;
+    /* padding: 20px; */
+    /* text-align: center;
+    justify-content: center; */
+}
+.projects img{
+    margin: 0px;
+    width: 100%;
+    height: auto;
+}
+#contact{
+    /* background-color: rgb(0, 0, 0); */
+    height: 315px;
+    width: 1200px;
+
+}
+}
+@media (max-width:1024px){
+    #navbar{
+        margin: 0px 0px;
+    }
+
+    
+    #header{
+        height: 1400px;
+        /* width: auto; */
+        /* display: block; */
+        width: 1024px;
+    }
+    #intro{
+        /* margin: -480px auto; */
+       display: block;
+        height: auto;
+        width: 830px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -1200px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .descrp {
+        padding: 0px 10px;
+        margin: auto 20px;
+        padding-bottom: 20px;
+    }
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1550px;
+        width: 1024px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+    #education{
+        width: 1024px;
+        height: 2300px;
+        display: block;
+ 
+}
+
+#education::before{
+    content:"";
+    /* background:url(clothesbg4.jpg) no-repeat center top; */
+    background-color: rgb(240, 240, 240);
+    background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+    position:absolute;
+    height: 2400px;
+    width: 1024px;
+    z-index: -1;
+    opacity: 0.9;
+    margin-top: -50px;
+}
+#projects{
+    display: block;
+}
+.projects{
+    /* text-align: center; */
+    /* margin: 10px auto ; */
+    display: block;
+    width: 70%;
+    height: auto;
+    margin: 0px auto;
+    /* padding: 20px; */
+    /* text-align: center;
+    justify-content: center; */
+}
+#contact{
+    /* background-color: rgb(0, 0, 0); */
+    height: 315px;
+    width: 1024px;
+
+}
+
+
+}
+@media (max-width:900px){
+    #navbar{
+        margin: 0px 0px;
+    }
+
+    
+    #header{
+        height: 1300px;
+        /* width: auto; */
+        /* display: block; */
+        width: 900px;
+    }
+    #intro{
+        /* margin: -480px auto; */
+       display: block;
+        height: auto;
+        width: 730px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -1100px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .descrp {
+        padding: 10px 10px;
+        margin: auto 20px;
+    }
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1550px;
+        width: 900px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+    #education{
+        width: 900px;
+        height: 2100px;
+        display: block;
+ 
+}
+
+#education::before{
+    content:"";
+    /* background:url(clothesbg4.jpg) no-repeat center top; */
+    background-color: rgb(240, 240, 240);
+    background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+    position:absolute;
+    height: 2200px;
+    width: 900px;
+    z-index: -1;
+    opacity: 0.9;
+    margin-top: -50px;
+}
+#projects{
+    display: block;
+}
+.projects{
+    /* text-align: center; */
+    /* margin: 10px auto ; */
+    display: block;
+    width: 70%;
+    height: auto;
+    margin: 0px auto;
+    /* padding: 20px; */
+    /* text-align: center;
+    justify-content: center; */
+}
+#contact{
+    /* background-color: rgb(0, 0, 0); */
+    height: 355px;
+    width: 900px;
+
+}
+
+}
+@media (max-width:768px){
+    #header{
+        /* width: 768px; */
+        /* display: block; */
+        height: 950px;
+        width: 768px;
+    }
+    hr{
+        display: block;
+    }
+    .header{
+        width: 768px;
+        height: 300px;
+        display: block;
+    }
+    #navbar{
+        display: block;
+        margin: 0px 0px;
+    } 
+       #navbar li{
+
+        margin:15px 0px;
+text-align: center;
+/* float: left; */
+    }
+    #navbar li:first-child{
+        margin-top: 0px;
+    }
+    #navbar li a{
+        /* float: left; */
+        /* margin: 0px 0px ; */
+        text-align: center;
+            }
+    .logo{
+/* background-color: azure; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #intro{
+        /* margin: -480px auto; */
+       display: block;
+        height: auto;
+        width: 560px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -580px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+  
+
+  .descrp{
+    /* height: 500px; */
+    padding: 20px;
+    margin: -20px 20px;
+
+    }
+    
+    .name{
+        font-size: 30px;
+        font-family: sans-serif;
+        /* padding-top: 10px; */
+        /* padding-bottom: 0px; */
+    }
+    .proff{
+        font-size: 13px;
+        font-family: sans-serif;
+        padding: 5px 0px;
+    }
+    .greet{
+    /* margin-top: 10px; */
+    font-size: 13px;
+    
+    }
+    #skills{
+        margin-top: 80px;
+        display: block;
+        height: 540px;
+        width: 600px;
+    
+    }
+
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1150px;
+        width: 768px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+
+    #education{
+              width: 768px;
+              height: auto;
+              display: block;
+       
+      }
+      
+      #education::before{
+          content:"";
+          /* background:url(clothesbg4.jpg) no-repeat center top; */
+          background-color: rgb(240, 240, 240);
+          background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+          position:absolute;
+          height: 2100px;
+          width: 768px;
+          z-index: -1;
+          opacity: 0.9;
+          margin-top: -50px;
+      }
+      #projects{
+        display: block;
+    }
+    .projects{
+        /* text-align: center; */
+        /* margin: 10px auto ; */
+        display: block;
+        width: 80%;
+        height: auto;
+        margin: 13px;
+        padding: 20px;
+        /* text-align: center;
+        justify-content: center; */
+    }
+    .projects img{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* margin: 0px auto ; */
+        /* align-items: center; */
+        width: 80%;
+        height: auto;
+        cursor: pointer;
+    }
+    #contact{
+        /* background-color: rgb(0, 0, 0); */
+        height: 355px;
+        width: 768px;
+
+    }
+    .social{
+        float: left;
+        margin: 0px;
+     
+    }
+    .social img{
+        margin: 5px;
+        width: 20px;
+        height: 20px;
+    }
+  
+}
+@media (max-width:668px){
+    #header{
+        /* width: 768px; */
+        /* display: block; */
+        height: 950px;
+        width: 668px;
+    }
+    hr{
+        display: block;
+    }
+    .header{
+        width: 668px;
+        height: 300px;
+        display: block;
+    }
+    #navbar{
+        display: block;
+        /* margin: 0px 30px; */
+    } 
+       #navbar li{
+
+        margin:15px 30px;
+text-align: center;
+/* float: left; */
+    }
+    #navbar li:first-child{
+        margin-top: 0px;
+    }
+    #navbar li a{
+        /* float: left; */
+        /* margin: 0px 0px ; */
+        text-align: center;
+            }
+    .logo{
+/* background-color: azure; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #intro{
+        /* margin: -480px auto; */
+       display: block;
+        height: auto;
+        width: 500px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -580px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+  
+
+  .descrp{
+    /* height: 500px; */
+    padding: 20px;
+    margin: -20px 20px;
+
+    }
+    
+    .name{
+        font-size: 30px;
+        font-family: sans-serif;
+        /* padding-top: 10px; */
+        /* padding-bottom: 0px; */
+    }
+    .proff{
+        font-size: 13px;
+        font-family: sans-serif;
+        padding: 5px 0px;
+    }
+    .greet{
+    /* margin-top: 10px; */
+    font-size: 13px;
+    
+    }
+    #skills{
+        margin-top: 80px;
+        display: block;
+        height: 540px;
+        width: 668px;
+    
+    }
+
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1150px;
+        width: 668px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+
+    #education{
+        display: block;
+        height: auto;
+        width: 668px;
+      }
+      
+      #education::before{
+          content:"";
+          /* background:url(clothesbg4.jpg) no-repeat center top; */
+          background-color: rgb(240, 240, 240);
+          background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+          position:absolute;
+          height: 2000px;
+          width: 668px;
+          z-index: -1;
+          opacity: 0.9;
+          margin-top: -50px;
+      }
+      #projects{
+        display: block;
+    }
+    .projects{
+        
+        /* text-align: center; */
+        /* margin: 10px auto ; */
+        display: block;
+        width: 80%;
+        height: auto;
+        /* margin: 13px; */
+        /* padding: 20px; */
+        /* margin: 10px auto ; */
+        /* text-align: center;
+        justify-content: center; */
+    }
+    .projects img{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* margin: 0px auto ; */
+        /* align-items: center; */
+        width: 80%;
+        height: auto;
+        cursor: pointer;
+    }
+    #contact{
+        /* background-color: rgb(0, 0, 0); */
+        height: 355px;
+        width: 668px;
+
+    }
+    .social{
+        float: left;
+        margin: 0px;
+     
+    }
+    .social img{
+        margin: 5px;
+        width: 20px;
+        height: 20px;
+    }
+  
+}
+@media (max-width:568px){
+    #header{
+        /* width: 768px; */
+        /* display: block; */
+        height: 950px;
+        width: 568px;
+    }
+    hr{
+        display: block;
+    }
+    .header{
+        width: 568px;
+        height: 300px;
+        display: block;
+    }
+    #navbar{
+        display: block;
+        /* margin: 0px 30px; */
+    } 
+       #navbar li{
+
+        margin:15px 30px;
+text-align: center;
+/* float: left; */
+    }
+    #navbar li:first-child{
+        margin-top: 0px;
+    }
+    #navbar li a{
+        /* float: left; */
+        /* margin: 0px 0px ; */
+        text-align: center;
+            }
+    .logo{
+/* background-color: azure; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #intro{
+        /* margin: -480px auto; */
+       display: block;
+        height: auto;
+        width: 400px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -580px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+  
+
+  .descrp{
+    /* height: 500px; */
+    padding: 20px;
+    margin: -20px 20px;
+
+    }
+    
+    .name{
+        font-size: 30px;
+        font-family: sans-serif;
+        /* padding-top: 10px; */
+        /* padding-bottom: 0px; */
+    }
+    .proff{
+        font-size: 13px;
+        font-family: sans-serif;
+        padding: 5px 0px;
+    }
+    .greet{
+    /* margin-top: 10px; */
+    font-size: 13px;
+    
+    }
+    #skills{
+        margin-top: 80px;
+        display: block;
+        height: 540px;
+        width: 600px;
+    
+    }
+
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1150px;
+        width: 568px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+
+    #education{
+        display: block;
+        height: auto;
+        width: 568px;
+      }
+      
+      #education::before{
+          content:"";
+          /* background:url(clothesbg4.jpg) no-repeat center top; */
+          background-color: rgb(240, 240, 240);
+          background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+          position:absolute;
+          height: 1800px;
+          width: 568px;
+          z-index: -1;
+          opacity: 0.9;
+          margin-top: -50px;
+      }
+      #projects{
+        display: block;
+    }
+    .projects{
+        
+        /* text-align: center; */
+        /* margin: 10px auto ; */
+        display: block;
+        width: 80%;
+        height: auto;
+        /* margin: 13px; */
+        /* padding: 20px; */
+        /* margin: 10px auto ; */
+        /* text-align: center;
+        justify-content: center; */
+    }
+    .projects img{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* margin: 0px auto ; */
+        /* align-items: center; */
+        width: 80%;
+        height: auto;
+        cursor: pointer;
+    }
+    #contact{
+        /* background-color: rgb(0, 0, 0); */
+        height: 335px;
+        width: 568px;
+
+    }
+    .social{
+        float: left;
+        margin: 0px;
+     
+    }
+    .social img{
+        margin: 5px;
+        width: 20px;
+        height: 20px;
+    }
+  
+}
+@media (max-width:478px){
+    #header{
+        /* width: 768px; */
+        /* display: block; */
+        height: 950px;
+        width: 478px;
+    }
+    hr{
+        display: block;
+    }
+    .header{
+        width: 478px;
+        height: 300px;
+        display: block;
+    }
+    #navbar{
+        display: block;
+        /* margin: 0px 30px; */
+    } 
+       #navbar li{
+
+        margin:15px 30px;
+text-align: center;
+/* float: left; */
+    }
+    #navbar li:first-child{
+        margin-top: 0px;
+    }
+    #navbar li a{
+        /* float: left; */
+        /* margin: 0px 0px ; */
+        text-align: center;
+            }
+    .logo{
+/* background-color: azure; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #intro{
+        /* margin: -480px auto; */
+       display: block;
+        height: auto;
+        width: 400px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -580px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+  
+
+  .descrp{
+    /* height: 500px; */
+    padding: 20px;
+    margin: -20px 20px;
+
+    }
+    
+    .name{
+        font-size: 30px;
+        font-family: sans-serif;
+        /* padding-top: 10px; */
+        /* padding-bottom: 0px; */
+    }
+    .proff{
+        font-size: 13px;
+        font-family: sans-serif;
+        padding: 5px 0px;
+    }
+    .greet{
+    /* margin-top: 10px; */
+    font-size: 13px;
+    
+    }
+    #skills{
+        margin-top: 80px;
+        display: block;
+        height: 540px;
+        width: 478px;
+    
+    }
+
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1150px;
+        width: 478px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+
+    #education{
+        display: block;
+        height: auto;
+        width: 478px;
+      }
+      
+      #education::before{
+          content:"";
+          /* background:url(clothesbg4.jpg) no-repeat center top; */
+          background-color: rgb(240, 240, 240);
+          background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+          position:absolute;
+          height: 1800px;
+          width: 478px;
+          z-index: -1;
+          opacity: 0.9;
+          margin-top: -50px;
+      }
+      #projects{
+        display: block;
+    }
+    .projects{
+        
+        /* text-align: center; */
+        /* margin: 10px auto ; */
+        display: block;
+        width: 80%;
+        height: auto;
+        /* margin: 13px; */
+        /* padding: 20px; */
+        /* margin: 10px auto ; */
+        /* text-align: center;
+        justify-content: center; */
+    }
+    .projects img{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* margin: 0px auto ; */
+        /* align-items: center; */
+        width: 80%;
+        height: auto;
+        cursor: pointer;
+    }
+    #contact{
+        /* background-color: rgb(0, 0, 0); */
+        height: 355px;
+        width: 478px;
+
+    }
+    .social{
+        float: left;
+        margin: 0px;
+     
+    }
+    .social img{
+        margin: 5px;
+        width: 20px;
+        height: 20px;
+    }
+  
+}
+@media (max-width:400px){
+    #header{
+        /* width: 768px; */
+        /* display: block; */
+        height: 950px;
+        width: 400px;
+    }
+    hr{
+        display: block;
+    }
+    .header{
+        width: 400px;
+        height: 300px;
+        display: block;
+    }
+    #navbar{
+        display: block;
+        /* margin: 0px 30px; */
+    } 
+       #navbar li{
+
+        margin:15px 30px;
+text-align: center;
+/* float: left; */
+    }
+    #navbar li:first-child{
+        margin-top: 0px;
+    }
+    #navbar li a{
+        /* float: left; */
+        /* margin: 0px 0px ; */
+        text-align: center;
+            }
+    .logo{
+/* background-color: azure; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #intro{
+        /* margin: -480px auto; */
+       display: block;
+        height: auto;
+        width: 300px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -580px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+  
+
+  .descrp{
+    /* height: 500px; */
+    padding: 20px;
+    margin: -20px 20px;
+
+    }
+    
+    .name{
+        font-size: 30px;
+        font-family: sans-serif;
+        /* padding-top: 10px; */
+        /* padding-bottom: 0px; */
+    }
+    .proff{
+        font-size: 13px;
+        font-family: sans-serif;
+        padding: 5px 0px;
+    }
+    .greet{
+    /* margin-top: 10px; */
+    font-size: 13px;
+    
+    }
+    #skills{
+        margin-top: 80px;
+        display: block;
+        height: 540px;
+        width: 400px;
+    
+    }
+
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1150px;
+        width: 400px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+
+    #education{
+        display: block;
+        height: auto;
+        width: 400px;
+      }
+      
+      #education::before{
+          content:"";
+          /* background:url(clothesbg4.jpg) no-repeat center top; */
+          background-color: rgb(240, 240, 240);
+          background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+          position:absolute;
+          height: 1600px;
+          width: 400px;
+          z-index: -1;
+          opacity: 0.9;
+          margin-top: -50px;
+      }
+      #projects{
+        display: block;
+    }
+    .projects{
+        
+        /* text-align: center; */
+        /* margin: 10px auto ; */
+        display: block;
+        width: 80%;
+        height: auto;
+        /* margin: 13px; */
+        /* padding: 20px; */
+        /* margin: 10px auto ; */
+        /* text-align: center;
+        justify-content: center; */
+    }
+    .projects img{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* margin: 0px auto ; */
+        /* align-items: center; */
+        width: 80%;
+        height: auto;
+        cursor: pointer;
+    }
+    #contact{
+        /* background-color: rgb(0, 0, 0); */
+        height: 355px;
+        width: 400px;
+
+    }
+    .social{
+        float: left;
+        margin: 0px;
+     
+    }
+    .social img{
+        margin: 5px;
+        width: 20px;
+        height: 20px;
+    }
+  
+}
+
+@media (max-width:350px){
+    #header{
+        /* width: 768px; */
+        /* display: block; */
+        height: 950px;
+        width: 350px;
+    }
+    hr{
+        display: block;
+    }
+    .header{
+        width: 350;
+        height: 300px;
+        display: block;
+    }
+    #navbar{
+        display: block;
+        /* margin: 0px 30px; */
+    } 
+       #navbar li{
+
+        margin:15px 30px;
+text-align: center;
+/* float: left; */
+    }
+    #navbar li:first-child{
+        margin-top: 0px;
+    }
+    #navbar li a{
+        /* float: left; */
+        /* margin: 0px 0px ; */
+        text-align: center;
+            }
+    .logo{
+/* background-color: azure; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #intro{
+        /* margin: -480px auto; */
+       display: block;
+        height: auto;
+        width: 270px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -580px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+  
+
+  .descrp{
+    /* height: 500px; */
+    padding: 20px;
+    margin: -20px 20px;
+
+    }
+    
+    .name{
+        font-size: 30px;
+        font-family: sans-serif;
+        /* padding-top: 10px; */
+        /* padding-bottom: 0px; */
+    }
+    .proff{
+        font-size: 13px;
+        font-family: sans-serif;
+        padding: 5px 0px;
+    }
+    .greet{
+    /* margin-top: 10px; */
+    font-size: 13px;
+    
+    }
+    #skills{
+        margin-top: 80px;
+        display: block;
+        height: 590px;
+        width: 350px;
+    
+    }
+
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1150px;
+        width: 350px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+
+    #education{
+        display: block;
+        height: auto;
+        width: 350px;
+      }
+      
+      #education::before{
+          content:"";
+          /* background:url(clothesbg4.jpg) no-repeat center top; */
+          background-color: rgb(240, 240, 240);
+          background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+          position:absolute;
+          height: 1600px;
+          width: 350px;
+          z-index: -1;
+          opacity: 0.9;
+          margin-top: -50px;
+      }
+      #projects{
+        display: block;
+    }
+    .projects{
+        
+        /* text-align: center; */
+        /* margin: 10px auto ; */
+        display: block;
+        width: 80%;
+        height: auto;
+        /* margin: 13px; */
+        /* padding: 20px; */
+        /* margin: 10px auto ; */
+        /* text-align: center;
+        justify-content: center; */
+    }
+    .projects img{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* margin: 0px auto ; */
+        /* align-items: center; */
+        width: 80%;
+        height: auto;
+        cursor: pointer;
+    }
+    #contact{
+        /* background-color: rgb(0, 0, 0); */
+        height: 355px;
+        width: 350px;
+
+    }
+    .social{
+        float: left;
+        margin: 0px;
+     
+    }
+    .social img{
+        margin: 5px;
+        width: 20px;
+        height: 20px;
+    }
+  
+}
+
+@media (max-width:300px){
+    #header{
+        /* width: 768px; */
+        /* display: block; */
+        height: 950px;
+        width: 300px;
+    }
+    hr{
+        display: block;
+    }
+    .header{
+        width: 300px;
+        height: 300px;
+        display: block;
+    }
+    #navbar{
+        display: block;
+        /* margin: 0px 30px; */
+    } 
+       #navbar li{
+
+        margin:15px 30px;
+text-align: center;
+/* float: left; */
+    }
+    #navbar li:first-child{
+        margin-top: 0px;
+    }
+    #navbar li a{
+        /* float: left; */
+        /* margin: 0px 0px ; */
+        text-align: center;
+            }
+    .logo{
+/* background-color: azure; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #intro{
+        /* margin: -480px auto; */
+       display: block;
+        height: auto;
+        width: 240px;
+        /* right: 0px; */      
+    margin: 0px auto;
+    margin-top: -580px;
+    }
+    .myphoto{
+        
+     width: 100%;
+        height: auto;
+    }
+    #photo{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+  
+
+  .descrp{
+    /* height: 500px; */
+    padding: 20px;
+    margin: -20px 20px;
+
+    }
+    
+    .name{
+        font-size: 30px;
+        font-family: sans-serif;
+        /* padding-top: 10px; */
+        /* padding-bottom: 0px; */
+    }
+    .proff{
+        font-size: 13px;
+        font-family: sans-serif;
+        padding: 5px 0px;
+    }
+    .greet{
+    /* margin-top: 10px; */
+    font-size: 13px;
+    
+    }
+    #skills{
+        margin-top: 80px;
+        display: block;
+        height: 750px;
+        width: 300px;
+    
+    }
+
+    #skills::before{
+        content:"";
+        /* background:url(clothesbg4.jpg) no-repeat center top; */
+        background-color: rgb(240, 240, 240);
+        /* background: linear-gradient(68deg,rgb(84, 81, 146) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%); */
+        position:absolute;
+        height: 1290px;
+        width: 300px;
+        z-index: -1;
+        opacity: 0.9;
+        /* margin-top: -440px; */
+    }
+
+    #education{
+        display: block;
+        height: auto;
+        width: 300px;
+      }
+      
+      #education::before{
+          content:"";
+          /* background:url(clothesbg4.jpg) no-repeat center top; */
+          background-color: rgb(240, 240, 240);
+          background: linear-gradient(68deg,rgb(113, 111, 150) 5%,rgb(160, 79, 123) 50%,rgb(182, 207, 70) 91%);
+          position:absolute;
+          height: 1600px;
+          width: 300px;
+          z-index: -1;
+          opacity: 0.9;
+          margin-top: -50px;
+      }
+      #projects{
+        display: block;
+    }
+    .projects{
+        
+        /* text-align: center; */
+        /* margin: 10px auto ; */
+        display: block;
+        width: 80%;
+        height: auto;
+        /* margin: 13px; */
+        /* padding: 20px; */
+        /* margin: 10px auto ; */
+        /* text-align: center;
+        justify-content: center; */
+    }
+    .projects img{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* margin: 0px auto ; */
+        /* align-items: center; */
+        width: 80%;
+        height: auto;
+        cursor: pointer;
+    }
+    #contact{
+        /* background-color: rgb(0, 0, 0); */
+        height: 355px;
+        width: 300px;
+
+    }
+    .social{
+        float: left;
+        margin: 0px;
+     
+    }
+    .social img{
+        margin: 5px;
+        width: 20px;
+        height: 20px;
+    }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
